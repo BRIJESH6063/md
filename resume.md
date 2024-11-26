@@ -1,74 +1,55 @@
 # BRIJESH KUMAR YADAV
 
-## Contact Information
+**Contact**
 
-* Mobile: +91-9936193424
-* Email: brijeshkumar377140@gmail.com
+* (+91) 9936193424
+* brijeshkumar377140@gmail.com
+* Prayagraj, Uttar Pradesh
+
+**Profile Links**
+
 * LinkedIn: https://www.linkedin.com/in/brijesh6063/
-* Github: https://www.github.com/BRIJESH6063
+* GitHub: https://github.com/BRIJESH6063
+* LeetCode: https://leetcode.com/u/BRIJESH6063/
+* GFG: https://www.geeksforgeeks.org/user/brijeshkumar377140/
 
-## Education
+**Education**
 
-* Jaypee University of Engineering and Technology, Guna, M.P., India
-    * Bachelor of Technology - Computer Science Engineering; GPA: 8.1
-    * July 2020 - July 2024
+**Jaypee University of Engineering and Technology (Guna, Madhya Pradesh)**
+* Bachelor of Technology in Computer Science Engineering (06/2024)
+    * Majored in Computer Science Engineering
+    * Played the position of Coordinator on the University Programming Club from 2022 to 2023
+    * Prominent coursework: Fundamental and Advanced Programming, Data Structures, Algorithms, Database Management, Operating System, Competitive Programming
 
-## Skills Summary
+**MPVM Ganga Gurukulam (Prayagraj, Uttar Pradesh)**
+* 12th (05/2018)
+    * Passed with 73.4%
+    * Prominent coursework: Physics, Chemistry, Maths, English, Hindi
 
-* Languages: C/C++, Java, JavaScript 
-* Frameworks: MongoBD, CSS, React, NodeJS
-* Data Structures, Algorihms, CP, Data Visualisation, ML
-* Tools: GitHub, MySQL
+**Projects**
 
-## Developing Experience
+**Learning Management System (01/2024 - 08/2024)**
+* Next.js Web Application
+    * Developed an LMS using Next.js and TypeScript for efficient frontend rendering and strong typing.
+    * Implemented Tailwind CSS for streamlined UI design.
+    * Integrated Clerk for authentication and Stripe for secure payment processing.
+    * Utilized Upload Thing for storage management of course files.
 
-* The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
-    * October 2022 - April 2023
-    * Udemy Course Videos and Doccumentations
-    * Projections, Joins and Triggers
-    * Learning MySQL and connecting with MySQL database through Node.js javascript
-* MERN-Stack Development
-    * October 2022 - Continued
-    * Udemy Course, Videos and Doccumentations
-    * React-js CSS Javascript
-    * Design of Frontend part, styling \& making a responsive Websites.
-    * MongoDB and REST API and Javascript, Node.js WebSocket
-    * Storing \& interacting data with API interface.
-* Python for Data Science and Machine Learning Bootcamp
-    * January 2023 - July 2023
-    * Udemy Course Videos and Doccumentations
-    * Python Tools
-        * NumPy Pandas Matplot Seaborn
-    * ML tools
-        * Linear Regression NLP
-* Internshala Training in Data Science
-    * July 2023
-    * Internshala Trainings
-    * Introduction to DS, Python for DS, Statistics for DS, Predictive Modeling and Basics of ML.
+**NavoChat - Whatsapp Clone (08/2022 - 01/2023)**
+* Real Time Chat Application
+    * Developed a React-based real-time chat web application with an attractive UI.
+    * Implemented authentication mechanisms.
+    * Integrated Websocket technology for real-time communication.
 
-## Projects
+**Skills**
 
-* Automatic Text Summarizer (Machine Learning Project)
-    * The "Automatic Text Summarizer" is an ML project uses large dataset of Amazon reviews to determine review sentiment (positive or negative). Utilizing advanced python techniqueslike NLP, TensorFlow, LSTM, and Attention Layer(NN).
-    * Project Link: https://github.com/BRIJESH6063/AutomaticTextSummarizer
-* Navochat : Whatsapp web clone (Real Time Chat Application)
-    * Navochat is a real-time chat application, utilizing the MERN stack(MongoDB, ExpressJS, ReactJS, and NodeJS) and WebSocket technology(socket.io).
-    * Project Link: https://github.com/BRIJESH6063/whatsapp-clone/
-* Portfolio : Frontend React Project)
-    * "Portfolio" is a frontend React project leveraging CSS styling, responsive layouts. Tech: React.js CSS javascript
-    * Project Link: https://github.com/BRIJESH6063/portfoliobrijesh
-    * Project Host Link: https://brijesh6063.github.io/portfoliobrijesh/
+* C/C++, HTML, CSS, Javascript, Node.JS, React.js, MongoDB, MySQL, Java, Time management
 
-## Coding Platforms
+**Certificates**
 
-* LeetCode: https://leetcode.com/BRIJESH6063/
-* Coding Ninjas: https://www.codingninjas.com/codestudio/profile/CodeKumar51
-* CodeChef: https://www.codechef.com/users/brijesh76
-* GeeksForGeeks: https://auth.geeksforgeeks.org/user/brijeshkumar377140/practice/
+* The Ultimate MySQL Bootcamp: Udemy Certification
 
-## Awards
+**Awards**
 
-* 250+ Problems solved on Leetcode, achieved 50 Days Badge 2022, Contest Rating 1442
-* 160+ Problems solved on Coding Ninjas, EXP gained 11481, Level - Expert, Achieved - Ronin(Topics:Graphs, Strings) Samurai(Topic: DP, Arrays, Matrices) Sensei(Topic : Tries)
-* 100+ Problems Solved on GFG overall score 387 institute rank 68
-* 160+ Problems solved on CodeChef rating 1574 (2*)
+* 250+ problems solved on LeetCode, 50 Days Badge 2023, contest rating 1442 on LeetCode
+* Solved over 100 problems on GFG, Institute Rank 76, coding score 441 on GFG
