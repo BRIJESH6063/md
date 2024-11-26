@@ -1,24 +1,24 @@
-# Brijesh Kumar Yadav
+# BRIJESH KUMAR YADAV
 
 ## Contact Information
 
+* Mobile: +91-9936193424
 * Email: brijeshkumar377140@gmail.com
 * LinkedIn: https://www.linkedin.com/in/brijesh6063/
-* Mobile: +91-9936193424
-* Github: https://github.com/BRIJESH6063
+* Github: https://www.github.com/BRIJESH6063
 
 ## Education
 
 * Jaypee University of Engineering and Technology, Guna, M.P., India
     * Bachelor of Technology - Computer Science Engineering; GPA: 8.1
-    * July 2020 - Current
+    * July 2020 - July 2024
 
 ## Skills Summary
 
-* Languages: C, C++, Python, JavaScript, SQL, Bash
+* Languages: C/C++, Java, JavaScript 
 * Frameworks: MongoBD, CSS, React, NodeJS
 * Data Structures, Algorihms, CP, Data Visualisation, ML
-* Tools: GitHub, MySQL, Kaggle
+* Tools: GitHub, MySQL
 
 ## Developing Experience
 
